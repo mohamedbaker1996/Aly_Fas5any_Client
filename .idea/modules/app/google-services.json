@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816628937901",
+    "firebase_url": "https://aly-el-fas5any.firebaseio.com",
+    "project_id": "aly-el-fas5any",
+    "storage_bucket": "aly-el-fas5any.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816628937901:android:e589b64521d894cbdf4224",
+        "android_client_info": {
+          "package_name": "com.simpelexo.alyfas5anyclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816628937901-v1lj6jruqr5ih6m5bb002g5muf35hbcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simpelexo.alyfas5anyclient",
+            "certificate_hash": "1ba49a3f2adf7930aba6d0c3a6008bb244353b99"
+          }
+        },
+        {
+          "client_id": "816628937901-92l99oso6355rd34mun7i42ldielm51i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCslA7GiVEjM4m84b3k2L9fzhu9lj6vrhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816628937901-92l99oso6355rd34mun7i42ldielm51i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
